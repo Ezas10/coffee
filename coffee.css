@@ -1,0 +1,96 @@
+header{
+    background: linear-gradient(to bottom, #666699 0%, #ff99cc 100%);
+    
+    padding: 20px;
+}
+body{
+    background-color:cornsilk;
+}
+
+.coffee1{
+    
+    font-size: 15px;
+    color: black;
+    padding: 20px 20px 40px 20px;
+    margin-top: 30px ;
+    text-align: center;
+    border: 3px solid blanchedalmond;
+    width: 300px;
+    background-color: white;
+    
+}
+
+.coffee2{
+    font-size: 15px;
+    color: black;
+    padding: 20px 20px 40px 20px;
+    margin-top: 30px ;
+    text-align: center;
+    border: 3px solid blanchedalmond;
+    width: 300px;
+    background-color: white;
+
+}
+.coffee3{
+    font-size: 15px;
+    color: black;
+    padding: 20px 20px 40px 20px;
+    margin-top: 30px ;
+    text-align: center;
+    border: 3px solid blanchedalmond;
+    width: 300px;
+    background-color: white;
+
+}
+.coffee{
+    display: flex;
+    justify-content: center;
+}
+
+.coffee4{
+    
+    font-size: 15px;
+    color: black;
+    padding: 20px 20px 40px 20px;
+    margin-top: 30px ;
+    text-align: center;
+    border: 3px solid blanchedalmond;
+    width: 300px;
+    background-color: white;
+    
+}
+
+.coffee5{
+    font-size: 15px;
+    color: black;
+    padding: 20px 20px 40px 20px;
+    margin-top: 30px ;
+    text-align: center;
+    border: 3px solid blanchedalmond;
+    width: 300px;
+    background-color: white;
+
+}
+.coffee6{
+    font-size: 15px;
+    color: black;
+    padding: 20px 20px 40px 20px;
+    margin-top: 30px ;
+    text-align: center;
+    border: 3px solid blanchedalmond;
+    width: 300px;
+    background-color: white;
+
+}
+.c1{
+    display: flex;
+    justify-content: center;
+    margin-top: -30px;
+}
+footer{
+    color: white;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    padding: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
